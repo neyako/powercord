@@ -1,0 +1,8 @@
+{
+  "name": "Nord Glasscord Theme",
+  "description": "This is a Glasscord theme that's been modified to conform to the Nord color palette.",
+  "author": "D3SOX, AryToNeX, Yotta, mwittrien, gibbu",
+  "version": "1.1",
+  "license": "MIT",
+  "theme": "nord-glasscord.theme.css"
+}
