@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Google Images",
+    "url": "https://www.google.com/searchbyimage?image_url=",
+    "note": "Just a Google"
+  },
+  {
+    "name": "Karmadecay",
+    "url": "https://karmadecay.com/search?q=",
+    "note": "Reddit"
+  },
+  {
+    "name": "Tineye",
+    "url": "https://tineye.com/search?url="
+  },
+  {
+    "name": "Bing Visual Search",
+    "url": "https://www.bing.com/images/search?view=detailv2&q=imgurl:",
+    "note": "Find Similar Images"
+  },
+  {
+    "name": "Trace",
+    "url": "https://trace.moe/?url=",
+    "note": "What is the anime"
+  },
+  {
+    "name": "IQDB",
+    "url": "https://iqdb.org/?url="
+  },
+  {
+    "name": "SauceNAO",
+    "url": "https://saucenao.com/search.php?db=999&url="
+  },
+  {
+    "name": "Yandex",
+    "url": "https://yandex.com/images/search?rpt=imageview&url="
+  },
+  {
+    "name": "ImgOps",
+    "url": "https://imgops.com/",
+    "note": "A Ton of Image Tools",
+    "withoutEncode": true
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "date": "2021-08-12",
+  "image": "https://media.discordapp.net/attachments/845949403474427914/875091554132439060/adios_hd.jpg",
+  "body": [
+    {
+      "type": "improved",
+      "header": "Further development",
+      "content": [
+        "Thank you to all those who use my plugins, at least someone expects that I will also childishly act and respond to aggression will do tOkEnStEaLeR. However, yes, still recommend that you be ready/[replace](https://github.com/powerfart-plugins/image-tools#similar-plugins) the plugins, because all the plugins I made for myself and I have long ago developed them to a comfortable level for myself and further development, i cant guarantee including new promised features (I'm also a little tired and the 2021s tried to ban me (haha))... well that's all for sure, it was fun. Adios"
+      ]
+    },
+    {
+      "type": "improved",
+      "header": "New address for repos",
+      "content": [
+        "Image Tools - [powerfart-plugins/image-tools](https://github.com/powerfart-plugins/image-tools)\nMy palette - [powerfart-plugins/my-palette](https://github.com/powerfart-plugins/my-palette)"
+      ]
+    },
+    {
+      "type": "added",
+      "header": "New features",
+      "content": [
+        [
+          "Ability to interact with user banner/custom status",
+          "Support for stickers as much as possible",
+          "Configurable border radius by [Encode42](https://github.com/Encode42)"
+        ]
+      ]
+    }
+  ],
+  "footer": ""
+}
