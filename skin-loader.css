@@ -1,7 +1,7 @@
 .theme-dark,
 .theme-light {
     /* Background Colors */
-    --SKIN-background-primary: hsla(var(--SKIN-background-h, 260), calc(var(--saturation-factor) * var(--SKIN-background-s, 0%)), calc(var(--SKIN-background-l, 0%) - var(--SKIN-grading-primary, 9%) + var(--SKIN-lightness, 0%)), var(--SKIN-background-a, 1.0));
+    --SKIN-background-primary: hsla(var(--SKIN-background-h, 260), calc(var(--saturation-factor) * var(--SKIN-background-s, 1%)), calc(var(--SKIN-background-l, 1%) - var(--SKIN-grading-primary, 9%) + var(--SKIN-lightness, 0%)), var(--SKIN-background-a, 1.0));
     --SKIN-background-secondary: hsla(var(--SKIN-background-h, 260), calc(var(--saturation-factor) * var(--SKIN-background-s, 11%)), calc(var(--SKIN-background-l, 16%) - var(--SKIN-grading-secondary, 6%) + var(--SKIN-lightness, 0%)), var(--SKIN-background-a, 1.0));
     --SKIN-background-secondary-alt: hsla(var(--SKIN-background-h, 260), calc(var(--saturation-factor) * var(--SKIN-background-s, 11%)), calc(var(--SKIN-background-l, 16%) - var(--SKIN-grading-tertiary, 3%) + var(--SKIN-lightness, 0%)), var(--SKIN-background-a, 1.0));
     --SKIN-background-tertiary: var(--SKIN-background-primary);
