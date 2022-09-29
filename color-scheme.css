@@ -10,10 +10,10 @@
     --SKIN-lightness: 0%;
 
     /* Grading */
-    --SKIN-grading-primary: 9%;
-    --SKIN-grading-secondary: 6%;
-    --SKIN-grading-tertiary: 3%;
-    --SKIN-grading-quarternary: 9%;
+    --SKIN-grading-primary: 0%;
+    --SKIN-grading-secondary: 0%;
+    --SKIN-grading-tertiary: 0%;
+    --SKIN-grading-quarternary: 0%;
 
     /* Interactive */
     --SKIN-interactive-h: 213;
